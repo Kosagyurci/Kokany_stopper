@@ -1,2 +1,2 @@
-# Kokany_stopper
+Stopper szerűség
 Stopper meg nem találása esetén ajánlom
